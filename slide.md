@@ -14,7 +14,7 @@ height: 1200
   }
 </style>
 
-## 今更のようにrailsのfat controllerの話をしてみる（仮）
+## railsのcontrollerにロジックを書きたくない話
 
 2022/06/13
 
